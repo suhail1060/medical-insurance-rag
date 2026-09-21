@@ -1,0 +1,522 @@
+[
+  {
+    "doc_id": "policy_01",
+    "title": "Annual Deductible Provisions and Cost-Sharing Obligations",
+    "category": "policy",
+    "topics": [
+      "deductible",
+      "cost-sharing",
+      "embedded-deductible",
+      "benefit-period"
+    ],
+    "word_count": 266,
+    "filename": "policy_01.md"
+  },
+  {
+    "doc_id": "policy_02",
+    "title": "Fixed Copayment Schedules for In-Network Services",
+    "category": "policy",
+    "topics": [
+      "copayment",
+      "office-visit",
+      "specialist-care",
+      "urgent-care"
+    ],
+    "word_count": 271,
+    "filename": "policy_02.md"
+  },
+  {
+    "doc_id": "policy_03",
+    "title": "Coinsurance Rates and Cost-Splitting Percentages",
+    "category": "policy",
+    "topics": [
+      "coinsurance",
+      "cost-sharing",
+      "inpatient-care",
+      "allowed-amount"
+    ],
+    "word_count": 266,
+    "filename": "policy_03.md"
+  },
+  {
+    "doc_id": "policy_04",
+    "title": "Annual Out-of-Pocket Maximum Caps and Accumulation",
+    "category": "policy",
+    "topics": [
+      "out-of-pocket-maximum",
+      "catastrophic-cap",
+      "cost-protection",
+      "aca-limits"
+    ],
+    "word_count": 267,
+    "filename": "policy_04.md"
+  },
+  {
+    "doc_id": "policy_05",
+    "title": "In-Network Participating Providers Versus Out-of-Network Coverage",
+    "category": "policy",
+    "topics": [
+      "network-tiers",
+      "participating-providers",
+      "out-of-network",
+      "preferred-network"
+    ],
+    "word_count": 248,
+    "filename": "policy_05.md"
+  },
+  {
+    "doc_id": "policy_06",
+    "title": "Prior Authorization Protocol and Utilization Management",
+    "category": "policy",
+    "topics": [
+      "prior-authorization",
+      "utilization-review",
+      "precertification",
+      "medical-necessity"
+    ],
+    "word_count": 244,
+    "filename": "policy_06.md"
+  },
+  {
+    "doc_id": "policy_07",
+    "title": "General Policy Exclusions: Cosmetic Procedures and Experimental Therapies",
+    "category": "policy",
+    "topics": [
+      "policy-exclusions",
+      "cosmetic-surgery",
+      "experimental-treatment",
+      "investigational"
+    ],
+    "word_count": 258,
+    "filename": "policy_07.md"
+  },
+  {
+    "doc_id": "policy_08",
+    "title": "Prescription Drug Benefit Formularies and Tiered Coverage",
+    "category": "policy",
+    "topics": [
+      "pharmacy-benefits",
+      "drug-formulary",
+      "specialty-medications",
+      "step-therapy"
+    ],
+    "word_count": 253,
+    "filename": "policy_08.md"
+  },
+  {
+    "doc_id": "policy_09",
+    "title": "Mental Health and Substance Use Disorder Parity Provisions",
+    "category": "policy",
+    "topics": [
+      "mental-health-parity",
+      "behavioral-health",
+      "substance-abuse",
+      "mhpaea"
+    ],
+    "word_count": 253,
+    "filename": "policy_09.md"
+  },
+  {
+    "doc_id": "policy_10",
+    "title": "Comprehensive Maternity and Newborn Care Coverage",
+    "category": "policy",
+    "topics": [
+      "maternity-care",
+      "prenatal-services",
+      "labor-and-delivery",
+      "newborn-coverage"
+    ],
+    "word_count": 265,
+    "filename": "policy_10.md"
+  },
+  {
+    "doc_id": "policy_11",
+    "title": "Emergency Medical Services and Prudent Layperson Standard",
+    "category": "policy",
+    "topics": [
+      "emergency-services",
+      "prudent-layperson",
+      "no-surprises-act",
+      "ambulance-coverage"
+    ],
+    "word_count": 275,
+    "filename": "policy_11.md"
+  },
+  {
+    "doc_id": "policy_12",
+    "title": "Pre-Existing Condition Protections and Guaranteed Issue Rights",
+    "category": "policy",
+    "topics": [
+      "pre-existing-conditions",
+      "guaranteed-issue",
+      "aca-compliance",
+      "underwriting"
+    ],
+    "word_count": 263,
+    "filename": "policy_12.md"
+  },
+  {
+    "doc_id": "faq_01",
+    "title": "How do I file a medical insurance claim for reimbursement?",
+    "category": "faq",
+    "topics": [
+      "claim-submission",
+      "reimbursement",
+      "cms-1500",
+      "member-portal"
+    ],
+    "word_count": 281,
+    "filename": "faq_01.md"
+  },
+  {
+    "doc_id": "faq_02",
+    "title": "What is the difference between an insurance premium and a deductible?",
+    "category": "faq",
+    "topics": [
+      "premium",
+      "deductible",
+      "cost-sharing",
+      "plan-basics"
+    ],
+    "word_count": 274,
+    "filename": "faq_02.md"
+  },
+  {
+    "doc_id": "faq_03",
+    "title": "How do I locate and verify in-network doctors and facilities?",
+    "category": "faq",
+    "topics": [
+      "in-network-directory",
+      "provider-finder",
+      "network-verification",
+      "pcp-assignment"
+    ],
+    "word_count": 273,
+    "filename": "faq_03.md"
+  },
+  {
+    "doc_id": "faq_04",
+    "title": "What financial and coverage risks occur if I receive out-of-network care?",
+    "category": "faq",
+    "topics": [
+      "out-of-network-risks",
+      "balance-billing",
+      "cost-differences",
+      "non-participating"
+    ],
+    "word_count": 260,
+    "filename": "faq_04.md"
+  },
+  {
+    "doc_id": "faq_05",
+    "title": "How do I appeal an adverse benefit determination or denied claim?",
+    "category": "faq",
+    "topics": [
+      "claims-appeal",
+      "denial-reversal",
+      "internal-appeal",
+      "external-review"
+    ],
+    "word_count": 284,
+    "filename": "faq_05.md"
+  },
+  {
+    "doc_id": "faq_06",
+    "title": "What is prior authorization and when is it needed?",
+    "category": "faq",
+    "topics": [
+      "prior-authorization",
+      "precertification",
+      "medical-necessity",
+      "advanced-imaging"
+    ],
+    "word_count": 282,
+    "filename": "faq_06.md"
+  },
+  {
+    "doc_id": "faq_07",
+    "title": "What is COBRA continuation coverage and how do I elect it?",
+    "category": "faq",
+    "topics": [
+      "cobra",
+      "continuation-coverage",
+      "job-loss",
+      "qualifying-event"
+    ],
+    "word_count": 307,
+    "filename": "faq_07.md"
+  },
+  {
+    "doc_id": "faq_08",
+    "title": "How do I add a newborn or spouse to my health insurance policy?",
+    "category": "faq",
+    "topics": [
+      "adding-dependents",
+      "qualifying-life-event",
+      "special-enrollment",
+      "dependent-coverage"
+    ],
+    "word_count": 292,
+    "filename": "faq_08.md"
+  },
+  {
+    "doc_id": "faq_09",
+    "title": "Does my health insurance plan cover me while traveling domestically or abroad?",
+    "category": "faq",
+    "topics": [
+      "travel-coverage",
+      "urgent-care-away",
+      "international-travel",
+      "repatriation"
+    ],
+    "word_count": 307,
+    "filename": "faq_09.md"
+  },
+  {
+    "doc_id": "faq_10",
+    "title": "How does telehealth and virtual doctor visit coverage work?",
+    "category": "faq",
+    "topics": [
+      "telehealth",
+      "virtual-care",
+      "telemedicine-copay",
+      "e-visits"
+    ],
+    "word_count": 265,
+    "filename": "faq_10.md"
+  },
+  {
+    "doc_id": "faq_11",
+    "title": "What are the differences between an HSA and an FSA?",
+    "category": "faq",
+    "topics": [
+      "hsa",
+      "fsa",
+      "tax-advantaged-accounts",
+      "hdhp"
+    ],
+    "word_count": 281,
+    "filename": "faq_11.md"
+  },
+  {
+    "doc_id": "faq_12",
+    "title": "How do I read and understand my Explanation of Benefits (EOB)?",
+    "category": "faq",
+    "topics": [
+      "eob",
+      "explanation-of-benefits",
+      "billed-charges",
+      "member-responsibility"
+    ],
+    "word_count": 297,
+    "filename": "faq_12.md"
+  },
+  {
+    "doc_id": "faq_13",
+    "title": "How and when can I change my health plan during Open Enrollment?",
+    "category": "faq",
+    "topics": [
+      "open-enrollment",
+      "plan-changes",
+      "switching-tiers",
+      "annual-enrollment"
+    ],
+    "word_count": 307,
+    "filename": "faq_13.md"
+  },
+  {
+    "doc_id": "faq_14",
+    "title": "What support and coverage is provided for chronic disease management?",
+    "category": "faq",
+    "topics": [
+      "chronic-conditions",
+      "disease-management",
+      "diabetes-care",
+      "wellness-programs"
+    ],
+    "word_count": 271,
+    "filename": "faq_14.md"
+  },
+  {
+    "doc_id": "faq_15",
+    "title": "What happens if I miss a monthly health insurance premium payment?",
+    "category": "faq",
+    "topics": [
+      "grace-period",
+      "missed-premium",
+      "policy-termination",
+      "reinstatement"
+    ],
+    "word_count": 319,
+    "filename": "faq_15.md"
+  },
+  {
+    "doc_id": "faq_16",
+    "title": "How is Durable Medical Equipment (DME) covered under my plan?",
+    "category": "faq",
+    "topics": [
+      "dme",
+      "durable-medical-equipment",
+      "prosthetics",
+      "mobility-devices"
+    ],
+    "word_count": 290,
+    "filename": "faq_16.md"
+  },
+  {
+    "doc_id": "claims_01",
+    "title": "Standard Operating Procedure: Member Claim Filing and Submission",
+    "category": "claims",
+    "topics": [
+      "claims-procedure",
+      "claim-filing",
+      "submission-protocol",
+      "paper-claims"
+    ],
+    "word_count": 283,
+    "filename": "claims_01.md"
+  },
+  {
+    "doc_id": "claims_02",
+    "title": "Mandatory Documentation and Verification Requirements for Claims",
+    "category": "claims",
+    "topics": [
+      "claims-documentation",
+      "itemized-bill",
+      "cpt-codes",
+      "proof-of-payment"
+    ],
+    "word_count": 295,
+    "filename": "claims_02.md"
+  },
+  {
+    "doc_id": "claims_03",
+    "title": "Comprehensive Catalog of Claim Denial Reasons and CARC Codes",
+    "category": "claims",
+    "topics": [
+      "claim-denials",
+      "carc-codes",
+      "denial-reasons",
+      "rarc-codes"
+    ],
+    "word_count": 311,
+    "filename": "claims_03.md"
+  },
+  {
+    "doc_id": "claims_04",
+    "title": "Appeals Protocol, Adjudication Timelines, and Dispute Resolution",
+    "category": "claims",
+    "topics": [
+      "claims-appeals",
+      "dispute-resolution",
+      "internal-appeals",
+      "external-review"
+    ],
+    "word_count": 292,
+    "filename": "claims_04.md"
+  },
+  {
+    "doc_id": "claims_05",
+    "title": "Clean Claim Adjudication and Electronic Reimbursement Timelines",
+    "category": "claims",
+    "topics": [
+      "reimbursement-timelines",
+      "prompt-pay-statute",
+      "clean-claims",
+      "eft-payments"
+    ],
+    "word_count": 277,
+    "filename": "claims_05.md"
+  },
+  {
+    "doc_id": "claims_06",
+    "title": "Coordination of Benefits (COB) Guidelines and Primary Payer Determination",
+    "category": "claims",
+    "topics": [
+      "coordination-of-benefits",
+      "primary-payer",
+      "secondary-insurance",
+      "birthday-rule"
+    ],
+    "word_count": 312,
+    "filename": "claims_06.md"
+  },
+  {
+    "doc_id": "claims_07",
+    "title": "Real-Time Claim Status Tracking and Adjudication Lifecycle",
+    "category": "claims",
+    "topics": [
+      "claim-status-tracking",
+      "claim-lifecycle",
+      "edi-276-277",
+      "member-dashboard"
+    ],
+    "word_count": 289,
+    "filename": "claims_07.md"
+  },
+  {
+    "doc_id": "claims_08",
+    "title": "Balance Billing Restrictions and Federal No Surprises Act Protections",
+    "category": "claims",
+    "topics": [
+      "balance-billing",
+      "no-surprises-act",
+      "surprise-billing",
+      "independent-dispute"
+    ],
+    "word_count": 278,
+    "filename": "claims_08.md"
+  },
+  {
+    "doc_id": "claims_09",
+    "title": "Retroactive Claim Submission and Timely Filing Limits",
+    "category": "claims",
+    "topics": [
+      "timely-filing",
+      "retroactive-claims",
+      "filing-deadline",
+      "good-cause-exceptions"
+    ],
+    "word_count": 266,
+    "filename": "claims_09.md"
+  },
+  {
+    "doc_id": "claims_10",
+    "title": "Special Investigation Unit (SIU) Fraud, Waste, and Abuse Triggers",
+    "category": "claims",
+    "topics": [
+      "fraud-investigation",
+      "siu-audit",
+      "waste-and-abuse",
+      "claim-audits"
+    ],
+    "word_count": 280,
+    "filename": "claims_10.md"
+  },
+  {
+    "doc_id": "claims_11",
+    "title": "Expedited Adjudication Protocol for Emergency and Urgent Medical Claims",
+    "category": "claims",
+    "topics": [
+      "expedited-claims",
+      "emergency-processing",
+      "urgent-adjudication",
+      "stabilization-care"
+    ],
+    "word_count": 247,
+    "filename": "claims_11.md"
+  },
+  {
+    "doc_id": "claims_12",
+    "title": "Out-of-Network Claim Reimbursement and UCR Allowable Calculation",
+    "category": "claims",
+    "topics": [
+      "out-of-network-reimbursement",
+      "ucr-rate",
+      "maximum-allowable-charge",
+      "fair-health"
+    ],
+    "word_count": 277,
+    "filename": "claims_12.md"
+  }
+]

@@ -6,3 +6,7 @@ data/processed/*
 *.qdrant/
 .venv/
 qdrant_storage/
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/*.md
+!data/raw/manifest.json

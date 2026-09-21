@@ -1959,6 +1959,7 @@ dependencies = [
     { name = "langchain-community" },
     { name = "langchain-qdrant" },
     { name = "python-dotenv" },
+    { name = "pyyaml" },
     { name = "qdrant-client" },
     { name = "sentence-transformers" },
 ]
@@ -1977,6 +1978,7 @@ requires-dist = [
     { name = "langchain-community", specifier = ">=0.4.2" },
     { name = "langchain-qdrant", specifier = ">=1.1.0" },
     { name = "python-dotenv", specifier = ">=1.2.3" },
+    { name = "pyyaml", specifier = ">=6.0.3" },
     { name = "qdrant-client", specifier = ">=1.19.0" },
     { name = "sentence-transformers", specifier = ">=6.0.1" },
 ]
