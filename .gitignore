@@ -3,6 +3,7 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+!data/processed/finetune_dataset.jsonl
 *.qdrant/
 .venv/
 qdrant_storage/
@@ -10,3 +11,4 @@ data/raw/*
 !data/raw/.gitkeep
 !data/raw/*.md
 !data/raw/manifest.json
+doNotMove.md
